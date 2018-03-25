@@ -3,7 +3,7 @@ title: "CodeBook"
 output: html_document
 ---
 
-## About R Script
+# About R Script
 
 File with R code "run_analysis.R" perform 5 following steps (in accordance assigned task of course work):
 
@@ -25,8 +25,8 @@ Merging the training and the test sets to create one data set.
     -  Making second tidy data set
     -  Writing second tidy data set in txt file
 
-## About Variables
-# Datasets for downloaded files
+# About Variables
+## Datasets for downloaded files
 - train_x
 - train_y
 - test_x
@@ -36,11 +36,11 @@ Merging the training and the test sets to create one data set.
 - features
 - activityLables
 
-# Merge Data Sets
+## Merge Data Sets
 - trainMerge
 - testMerge
 - MergeData
 - DataSetwithActivity
 
-# Final Tidy Data Set
+## Final Tidy Data Set
 - TidyDataSet
